@@ -1,6 +1,6 @@
 
 # Material-Cursors
-Material Cursors for Linux
+A copy of Material Cursors for Linux for my own use.
 
 
 ![Alt Text](preview/default.png)
@@ -13,6 +13,6 @@ Material Cursors for Linux
 1. Copy material folder to icons folder ( `/home/user/.icons or /home/user/.local/share/icons` )
 
 # Note.
-I just ported this to Linux.
+arun54321 ported this to Linux.
 
 Author- [rosea92](https://www.deviantart.com/rosea92)
